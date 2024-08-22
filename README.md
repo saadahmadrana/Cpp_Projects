@@ -20,6 +20,10 @@ Each project is located in its own directory within this repository. Below is a 
 1. **Temperature Converter**  
    - A simple program to convert temperatures between Celsius, Fahrenheit, and Kelvin.
    - Directory: `Temperature_Converter/`
+     
+1. **Simple Arithmetic Calculator**  
+   - A simple program for arithmetic calculations.
+   - Directory: `Arithmetic_Calculator/`
 
 
 ## Getting Started
