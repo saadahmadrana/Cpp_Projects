@@ -39,5 +39,5 @@ For any questions or feedback, you can reach out to:
 
 - **Saad Ahmad Rana**
 - **Email:** shmdrana09@gmail.com
-- **Linkedme;** www.linkedin.com/in/saad-ahmed-rana-bb67942b8
+- **Linkedme:** www.linkedin.com/in/saad-ahmed-rana-bb67942b8
 
