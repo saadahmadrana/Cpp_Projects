@@ -23,7 +23,7 @@ Each project is located in its own directory within this repository. Below is a 
      
 1. **Simple Arithmetic Calculator**  
    - A simple program for arithmetic calculations.
-   - Directory: `Arithmetic_Calculator/`
+   - Directory: `Arithmetic_Calculato/`
 
 
 ## Getting Started
